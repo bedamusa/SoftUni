@@ -10,7 +10,11 @@ namespace TestGithub
     {
         static void Main(string[] args)
         {
+<<<<<<< .mine
             Console.WriteLine("Hello GitHub Go Go GO");
+=======
+            Console.WriteLine("Hello GitHub and Go");
+>>>>>>> .theirs
         }
     }
 }
